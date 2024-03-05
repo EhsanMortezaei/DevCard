@@ -117,3 +117,9 @@ E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\obj\Debug\net5.0\Razor\Views\
 E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
 E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
 E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\bin\Debug\net5.0\System.Web.Razor.dll
+E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\bin\Debug\net5.0\System.Web.Helpers.dll
+E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\bin\Debug\net5.0\System.Web.WebPages.dll
+E:\practice\asp.net core\atriya\f2 MVC\DevCard_MVC\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
